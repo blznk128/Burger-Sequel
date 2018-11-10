@@ -14,7 +14,7 @@ app.use(express.static(__dirname + '/public'));
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(methodOverride('_method'));
 
-db.sequelize.sync({force: true }).then(function(){
+db.sequelize.sync({force: false }).then(function(){
 	app.listen(port, function() {
 		console.log("listening on port: ", port);
 	});
