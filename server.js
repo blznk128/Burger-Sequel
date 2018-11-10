@@ -4,7 +4,7 @@ var bodyParser = require('body-parser');
 var exphbs = require('express-handlebars');
 var db = require('./models');
 var app = express();
-var port = process.env.PORT || 8080;
+var port = process.env.port || 8080;
 
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
