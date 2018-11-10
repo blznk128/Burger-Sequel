@@ -1,0 +1,1 @@
+I spend an absurd amount of time i feel on this assignment. It was really rough, i had to do a ton of research, re did activities, had a friend help as well, it was all around a rough time. Just getting the syntax and linking files to folders to other files and folders and handlebars display correct information and the way i wanted it to, oh man it was hard.

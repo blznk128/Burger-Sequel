@@ -1,0 +1,78 @@
+#burger {
+    text-align: center;
+}
+
+body {
+    background: url(http://cdn.foodbeast.com/wp-content/uploads/2017/07/spongebob-krabby.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.list-group-item {
+    background: black!important;
+    color: white;
+    text-align: center;
+}
+
+.list-group {
+    margin-left: 130px;
+}
+
+.list-groupA {
+    margin-right: 130px
+}
+
+.btn-success {
+    width: 105px;
+    margin-left: 525px;
+    background: black;
+}
+
+.form-control {
+    width: 500px;
+    margin-left: 320px;
+}
+
+p {
+    font-size: 30px;
+    margin-left: 100px;
+    color: white;
+}
+
+#devouredA {
+    margin-left: 280px;
+    color: white;
+}
+
+img {
+    -webkit-animation: spin 8.20s infinite linear;
+    animation: spin 8.20s infinite linear;
+}
+@-webkit-keyframes spin {
+    100% { -webkit-transform: rotate(360deg); }
+}
+@-moz-keyframes spin {
+    100% { -moz-transform: rotate(360deg); }
+}
+@keyframes spin {
+    100% {
+        -moz-transform:rotate(360deg);
+        -o-transform:rotate(360deg);
+        transform:rotate(360deg);
+    }
+}
+/* img {
+    animation-duration: 3s;
+    animation-name: sliein;
+}
+@keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  } */
