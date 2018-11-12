@@ -1,1 +1,13 @@
-I spend an absurd amount of time i feel on this assignment. It was really rough, i had to do a ton of research, re did activities, had a friend help as well, it was all around a rough time. Just getting the syntax and linking files to folders to other files and folders and handlebars display correct information and the way i wanted it to, oh man it was hard.
+Overview
+
+In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
+
+Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
+Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.
+Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
+Your app will store every burger in a database, whether devoured or not.
+
+In this app, the user can add any burger that their heart desires and submit it, all new items will appear in the left side of the screen, then they can click devour and it will appear to the right of the screen.
+
+Link to my github code 
+Link to heroku https://radiant-castle-33104.herokuapp.com/
