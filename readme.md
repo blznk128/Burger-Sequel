@@ -9,5 +9,5 @@ Your app will store every burger in a database, whether devoured or not.
 
 In this app, the user can add any burger that their heart desires and submit it, all new items will appear in the left side of the screen, then they can click devour and it will appear to the right of the screen.
 
-Link to my portfolio https://blznk128.github.io/newportfolio.html
-Link to heroku https://radiant-castle-33104.herokuapp.com/
+Link to my portfolio https://blznk128.github.io/#portfolioJump
+Link to heroku https://whispering-mountain-58717.herokuapp.com/
