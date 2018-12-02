@@ -9,7 +9,7 @@ Your app will store every burger in a database, whether devoured or not.
 
 In this app, the user can add any burger that their heart desires and submit it, all new items will appear in the left side of the screen, then they can click devour and it will appear to the right of the screen.
 
-Object of this project is to display your database on to the users screen and have the data update in real time.
+Objecive of this project is to display your database on to the users screen and have the data update in real time.
 
 Technologies used, Node.js, Express, Handlebars, Sequelize, HTMl, CSS.
 
