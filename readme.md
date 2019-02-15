@@ -13,5 +13,5 @@ Objective of this project is to display your database on to the users screen and
 
 Technologies used, Node.js, Express, Handlebars, Sequelize, HTMl, CSS.
 
-Link to my portfolio www.bennyborunda.com
+Link to my portfolio www.bennyborunda.com <br>
 Link to heroku https://whispering-mountain-58717.herokuapp.com/
